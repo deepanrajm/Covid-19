@@ -1,1 +1,1 @@
-# Transfer-Learning
+# Covid detection with CT Scans
